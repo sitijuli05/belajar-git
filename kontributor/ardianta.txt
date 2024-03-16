@@ -1,0 +1,5 @@
+Nama: Moch Isrib
+Github: https://github.com/MochIsrin068/belajar-git.git
+Web: https://MochIsrin068.github.io
+
+Bio: Pemberani dalam hal-hal yang baru.
